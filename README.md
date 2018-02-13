@@ -7,7 +7,9 @@ Group members:
   Liam Edelman
   
   Duong Le
-    I am undergrad and this is my 5th year at UIC. I came from small village in Vietnam. My interest are in Web development and Mobile development.       
+  
+    I am undergrad and this is my 5th year at UIC. I came from small village in Vietnam. My interest are in Web development and Mobile development.
+    
   Corey Habel
   
     I am originally from Gurnee, a suburb about an hour north of Chicago. This is my third year 

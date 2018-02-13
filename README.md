@@ -7,7 +7,7 @@ Group members:
   Liam Edelman
   
   Duong Le
-      
+    I am undergrad     
   Corey Habel
   
     I am originally from Gurnee, a suburb about an hour north of Chicago. This is my third year 
